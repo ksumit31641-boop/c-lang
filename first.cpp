@@ -21,5 +21,23 @@ int main(){
     // int a = -5;
     // cout<<a;
 
+    // int i,num,n,j;
+    // cout<<"Enter the number : ";
+    // cin>>num;
+
+    // for(i=4;i<=num;i=i+4){
+    //     cout<<i<<" ";
+    // }
+
+int i,j;
+for(i=1;i<=5;i++){
+    for(j=1;j<=6;j++){
+        cout<<j*j*j<<" ";
+    }
+
+    cout<<endl;
+}
+    
+
     
 };
